@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @briansinw3b
-- 👀 I’m interested in blockchain, web3
-- 🌱 I’m currently a web3 developer
+- fultime web3 builder
 
 <!---
 briansinw3b/briansinw3b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
